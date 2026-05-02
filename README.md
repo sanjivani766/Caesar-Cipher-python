@@ -2,8 +2,6 @@
 
 This project implements the Caesar Cipher algorithm using Python. It allows users to encrypt and decrypt messages by shifting alphabet characters using a user-defined shift value.
 
-This project was created as part of **Task-01 of a Cyber Security Internship**.
-
 ## Features
 
 * Encrypt messages using a shift value
@@ -14,15 +12,6 @@ This project was created as part of **Task-01 of a Cyber Security Internship**.
 ## Technologies Used
 
 * Python 3
-
-## Project Structure
-
-```
-PRODIGY_CS_01
-│
-├── caesarcipherrr.py
-└── README.md
-```
 
 ## How to Run
 
